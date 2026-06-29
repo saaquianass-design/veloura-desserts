@@ -1,1 +1,5 @@
-    export default function App() { return <h1>Veloura Desserts</h1> }
+import './index.css'
+
+export default function App() { 
+  return <h1>Veloura Desserts 🍰</h1> 
+}
